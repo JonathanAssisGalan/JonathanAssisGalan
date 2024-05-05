@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu GIT, sou Jonathan Galan! 👋
 
 - 🔭 Hoje estou trabalhando com a área de finanças, migrando para a área de TI. 
-- 🌱 Eu estou estudando sobre Data Science e desenvolvimento mobile. 
+- 🌱 Eu estou estudando sobre Data Science, desenvolvimento de software e HTML/CSS/JS. 
 - 👯 Estou buscando oportunidade de Estágio ou Trainee na área de TI.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas como segunda graduação! | ✔️ MBA em Data Science pelo Descomplica em 2024. | ✔️ MBA em Finanças, Auditoria e Controladoria pela UNOPAR em 2022. | ✔️ Formado em Economia pela UNESPAR em 2022. 
 
