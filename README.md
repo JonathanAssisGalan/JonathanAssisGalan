@@ -1,9 +1,8 @@
 ### Bem-vindo ao meu GIT, sou Jonathan Galan! 👋
 
-- 🔭 Migrando para a área de desenvolvimento de software.
-- 🌱 Eu estou estudando sobre Data Science, desenvolvimento de software e HTML/CSS/JS. 
-- 👯 Estou buscando oportunidade de Estágio ou Trainee na área de TI.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas como segunda graduação! | ✔️ MBA em Data Science pelo Descomplica em 2024. | ✔️ MBA em Finanças, Auditoria e Controladoria pela UNOPAR em 2022. | ✔️ Formado em Economia pela UNESPAR em 2022. 
+- 🔭 Migrando para a área de Ciência de Dados.
+- 👯 Estou buscando oportunidade na área de Ciência de Dados como Júnior.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas como segunda graduação! | 🎓 Cursando MBA em Engenharia de Software | ✔️ MBA em Data Science pelo Descomplica em 2024. | ✔️ MBA em Finanças, Auditoria e Controladoria pela UNOPAR em 2022. | ✔️ Formado em Economia pela UNESPAR em 2022. 
 
 <div>
   <a href="https://beacons.ai/jonathanassisgalan">
