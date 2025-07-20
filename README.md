@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu GIT, sou Jonathan Galan! 👋
 
-- 🎓 Cursando Contabilidade como segunda graduação | 🎓 Cursando MBA em Engenharia de Software | ✔️ MBA em Data Science pelo Descomplica em 2024. | ✔️ MBA em Finanças, Auditoria e Controladoria pela UNOPAR em 2022. | ✔️ Formado em Economia pela UNESPAR em 2022. 
+- 🎓 Cursando Ciência da Computação | ✔️ Graduação em Contabilidade | 🎓 Cursando MBA em Engenharia de Software | ✔️ MBA em Data Science pelo Descomplica em 2024. | ✔️ MBA em Finanças, Auditoria e Controladoria pela UNOPAR em 2022. | ✔️ Formado em Economia pela UNESPAR em 2022. 
 
 <div>
   <a href="https://beacons.ai/jonathanassisgalan">
